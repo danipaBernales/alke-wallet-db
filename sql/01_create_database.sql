@@ -1,0 +1,5 @@
+CREATE DATABASE AlkeWallet;
+
+USE AlkeWallet;
+
+SHOW DATABASES;
